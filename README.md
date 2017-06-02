@@ -1,2 +1,4 @@
 ## Maldonado's Make Change Project
-weeek 1 homework project
+This is my week 1 homework project
+
+I am learning Java expressions
